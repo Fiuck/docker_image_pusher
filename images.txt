@@ -15,4 +15,6 @@
 #redislabs/redisinsight:latest
 #tonistiigi/binfmt:latest
 #finab/bark-server:latest
-moby/buildkit:buildx-stable-1
+#moby/buildkit:buildx-stable-1
+zzde/kubectl:latest
+busybox:latest
